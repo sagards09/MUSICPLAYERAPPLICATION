@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Gaana</string>
+    <string name="shuffle_btn">Shuffle</string>
+    <string name="favourites_btn">Favorites</string>
+    <string name="playlist_btn">Playlist</string>
+    <string name="total_songs">Total Songs</string>
+    <string name="song_name">Song name</string>
+    <string name="back_btn">Back</string>
+    <string name="favourite_empty">Fav_empty</string>
+    <string name="seek_bar">00:00</string>
+    <string name="share_btn">shuffle</string>
+    <string name="repeat_btn">repeat</string>
+    <string name="shuffle_fav_btn">Shuffle</string>
+    <string name="add_icon">Add</string>
+    <string name="open">Open</string>
+    <string name="song_album">Song album</string>
+    <string name="close">close</string>
+    <string name="song_img">Song Image</string>
+    <string name="playlist_name">Playlist Name</string>
+    <string name="playlist_delete">Delete</string>
+    <string name="user_name">Your Name</string>
+    <string name="add_song">Add</string>
+    <string name="remove_all">Remove All</string>
+    <string name="search_song">Search Song</string>
+</resources>
